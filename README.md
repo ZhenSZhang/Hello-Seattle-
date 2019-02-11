@@ -1,7 +1,8 @@
 # Hello Seattle!
-A must simple console app written in C#.
+* here are different versions of "Hello Seattle!" {console,form,etc...}
+* will keep uploading variations of "Hello Seattle!"
 
 # What I Learned
-* Get familiarize with GitHub
-* Upload my very first Application Written {Taught by Bob Tabor from MVA:)}
-* Start my portafolio
+* basic console 
+* creating form/ adding button/ position button
+* create events with code
